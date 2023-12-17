@@ -1,10 +1,12 @@
 {
   "devDependencies": {
+    "gh-pages": "^6.1.0",
     "vitepress": "^1.0.0-rc.32"
   },
   "scripts": {
     "docs:dev": "vitepress dev website",
     "docs:build": "vitepress build website",
     "docs:preview": "vitepress preview website"
-  }
+  },
+  "base": "/viteresume/"
 }
