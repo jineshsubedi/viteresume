@@ -25,13 +25,13 @@ jobs:
         run: npm run build
 
       - name: Create directories
-        run: mkdir -p docs/.vitepress/dist
+        run: mkdir -p website/.vitepress/dist
 
       - name: Create .nojekyll file
-        run: touch docs/.vitepress/dist/.nojekyll
+        run: touch website/.vitepress/dist/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs/.vitepress/dist
+          publish_dir: ./website/.vitepress/dist
