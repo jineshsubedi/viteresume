@@ -8,7 +8,7 @@ hero:
   tagline: A dedicated LAMP Stack developer with a love for building solid web applications.
   image:
     src: ./image/image_banner.png
-    alt: VitePress
+    alt: Jinesh
   actions:
     - theme: brand
       text: Contact
