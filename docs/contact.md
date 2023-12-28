@@ -4,14 +4,14 @@
 
 For general inquiries or information, please feel free to reach out to us:
 
-- **Email:** [info@example.com](mailto:info@example.com)
-- **Phone:** +1 (555) 123-4567
+- **Email:** [jinesh1094@gmail.com](mailto:jinesh1094@gmail.com)
+- **Phone:** +977 9842089687
 
 ## Support
 
 If you need assistance or have any questions, our support team is ready to help:
 
-- **Email:** [support@example.com](mailto:support@example.com)
+- **Email:** [jinesh1094@gmail.com](mailto:jinesh1094@gmail.com)
 - **Live Chat:** [Chat with us](#) *(Available during business hours)*
 
 ## Social Media
