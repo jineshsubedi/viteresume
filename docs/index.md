@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon:
-      src: ./image/code.png
+      src: ./image.png
     title: Expert Backend Languages
     details: Proficient in backend languages such as PHP, leveraging their strengths to create efficient and scalable solutions.
   - icon: 
