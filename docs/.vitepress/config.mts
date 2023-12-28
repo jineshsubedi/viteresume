@@ -5,6 +5,7 @@ export default defineConfig({
   lang: 'en-US',
   title: "JINESH SUBEDI",
   description: "Hello! Jinesh Subedi here, a dedicated Laravel developer with a love for building solid web applications. I thrive on transforming creative ideas into scalable, high-performance solutions. With a strong foundation in PHP and the Laravel framework, I provide vast experience in creating elegant and efficient code that matches the specific demands of clients.",
+  base: "/viteresume/", 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -31,6 +32,6 @@ export default defineConfig({
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2023 - Jinesh Subedi'
-    }
+    },
   }
 })
