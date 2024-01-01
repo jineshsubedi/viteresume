@@ -38,4 +38,4 @@ I enjoy sharing my knowledge and experiences through blog posts.
 
 
 ## LINK
-[DOWNLOAD RESUME](./standardCV.pdf)
+[DOWNLOAD RESUME](../public/standardCV.pdf)
