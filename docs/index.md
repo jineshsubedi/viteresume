@@ -19,19 +19,19 @@ hero:
 
 features:
   - icon:
-      src: ./public/images/code.png
+      src: ./images/code.png
     title: Expert Backend Languages
     details: Proficient in backend languages such as PHP, leveraging their strengths to create efficient and scalable solutions.
   - icon: 
-      src: ./public/images/cube.png
+      src: ./images/cube.png
     title: Framework Master
     details: Specialized in backend frameworks; Laravel with Vue/React/Jquery. Applying best practices to streamline development processes.
   - icon:
-      src: ./public/images/db.png
+      src: ./images/db.png
     title: Database Design and Optimization
     details: Skilled in designing and optimizing database structures with a focus on performance, data integrity, and security, using databases like MySQL, PostgreSQL, Oracle.
   - icon:
-      src: ./public/images/api.png
+      src: ./images/api.png
     title: API Development
     details: Experienced in building RESTful and GraphQL APIs, facilitating seamless communication between front-end and back-end components.
 
