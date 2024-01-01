@@ -7,7 +7,7 @@ hero:
   text: ""
   tagline: A dedicated LAMP Stack developer with a love for building solid web applications.
   image:
-    src: ./public/images/image_banner.png
+    src: ./images/image_banner.png
     alt: Jinesh
   actions:
     - theme: brand
