@@ -34,4 +34,8 @@ Throughout my career, I've had the opportunity to work on exciting projects that
 
 ## Blog
 
-I enjoy sharing my knowledge and experiences through blog posts. Check out my [blog](
+I enjoy sharing my knowledge and experiences through blog posts.
+
+
+## LINK
+[DOWNLOAD RESUME](./standardCV.pdf)
