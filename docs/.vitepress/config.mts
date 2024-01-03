@@ -11,7 +11,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
-      { text: 'Blog', link: '/blog' },
+      { text: 'Blog', link: '/blog/' },
       { text: 'Contact', link: '/contact' }
     ],
 
@@ -19,7 +19,7 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Blog', link: '/blog' },
+          { text: 'Blog', link: '/blog/' },
         ]
       }
     ],
