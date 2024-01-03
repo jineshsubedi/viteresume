@@ -8,6 +8,9 @@ export default defineConfig({
   base: "/viteresume/", 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
@@ -24,14 +27,6 @@ export default defineConfig({
         ]
       }
     ],
-    search: {
-      provider: 'algolia',
-      options: {
-        appId: '8J64VVRP8K',
-        apiKey: 'a18e2f4cc5665f6602c5631fd868adfd',
-        indexName: 'vitepress'
-      }
-    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/jineshsubedi' },

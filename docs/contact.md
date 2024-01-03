@@ -5,29 +5,22 @@
 For general inquiries or information, please feel free to reach out to us:
 
 - **Email:** [jinesh1094@gmail.com](mailto:jinesh1094@gmail.com)
-- **Phone:** +977 9842089687
-
-## Support
-
-If you need assistance or have any questions, our support team is ready to help:
-
-- **Email:** [jinesh1094@gmail.com](mailto:jinesh1094@gmail.com)
-- **Live Chat:** [Chat with us](#) *(Available during business hours)*
+- **Phone:** [+977-9842089687](tel:+9779842089687)
+- **Live Chat:** [whatsapp](tel:+9779842089687) *(Available during business hours)*
 
 ## Social Media
 
 Stay connected with us on social media for updates, news, and community discussions:
 
-- **Twitter:** [@example_twitter](https://twitter.com/example_twitter)
-- **Facebook:** [Example Facebook Page](https://www.facebook.com/example)
+- **LinkedIn:** [@jinesh-subedi-541550154](https://www.linkedin.com/in/jinesh-subedi-541550154/)
+- **GitHub:** [@jinesh1094@gmail.com](https://github.com/jineshsubedi)
+- **Youtube:** [@sojhodeveloper](https://www.youtube.com/@sojhodeveloper)
 
-## Office Location
+## Address Location
 
-Visit us at our office:
-
-123 Main Street  
-Cityville, State 12345  
-United States
+Siddipur,
+Lalitpur, Province 3,
+Nepal
 
 ## Google Map
 
@@ -36,8 +29,8 @@ United States
   height="300"
   frameborder="0"
   style="border:0"
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12345.678901234567!2d-74.005973!3d40.712776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDE5JzA1LjIiTiA3NMKwMDknMTkuMCJX!5e0!3m2!1sen!2sus!4v1609549878713!5m2!1sen!2sus"
+  src="https://www.google.com/maps/embed/v1/place?q=Prera+Business+Complex,+Jawalakhel,+Lalitpur,+Nepal&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
   allowfullscreen
 ></iframe>
 
-We look forward to hearing from you!
+I look forward to hearing from you!
