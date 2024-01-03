@@ -19,7 +19,8 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Blog', link: '/blog/' },
+          { text: 'Oracle to PostgreSQL SQL Converter Tool', link: '/blog/oracletopgsql' },
+          { text: 'Changing PHP Version in Ubuntu: A Step-by-Step Guide', link: '/blog/change-php-version-in-ubuntu' },
         ]
       }
     ],

@@ -2,7 +2,7 @@
 title: "Oracle to PostgreSQL SQL Converter Tool"
 description: "Convert Oracle SQL queries to PostgreSQL with this handy tool."
 author: "Jinesh Subedi"
-date: "2024-01-03"
+date: "2024-01-01"
 tags: ["Oracle", "PostgreSQL", "SQL", "Conversion"]
 ---
 
