@@ -33,7 +33,7 @@ This will display a list of installed PHP versions.
 Run the following command to select the desired PHP version (replace "X.Y" with the version you want, e.g., 8.2):
 
 ```bash
-sudo update-alternatives --config phpX.Y
+sudo update-alternatives --config php
 ```
 
 ## step 4: Verify the PHP version
