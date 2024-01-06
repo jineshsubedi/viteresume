@@ -9,3 +9,4 @@ sidebar: false
   class="position-relative d-flex align-items-center justify-content-center"
 />
 
+<BlogContainer />
