@@ -1,7 +1,10 @@
 ---
 title: My Blogs
 ---
-# My Blogs
+<SectionTitle 
+  title_back="BLOG"
+  title_front="BLOG"
+/>
 
 ## [Oracle to PostgreSQL SQL Converter Tool](../blog/oracletopgsql.md)
 
