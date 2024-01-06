@@ -15,6 +15,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about' },
       { text: 'Blog', link: '/blog/' },
+      { text: 'Video', link: '/video' },
       { text: 'Contact', link: '/contact' }
     ],
 
@@ -37,6 +38,9 @@ export default defineConfig({
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2023 - Jinesh Subedi'
-    },
+    }
+  },
+  sitemap: {
+    hostname: 'https://jineshsubedi.github.io/viteresume/'
   }
 })
