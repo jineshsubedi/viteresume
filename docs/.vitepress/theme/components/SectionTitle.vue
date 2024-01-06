@@ -1,5 +1,5 @@
 <template>
-      <div class="position-relative d-flex align-items-center justify-content-center">
+      <div :class="class">
             <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">{{ title_back }}</h1>
             <h1 class="position-absolute text-uppercase text-primary">{{ title_front }}</h1>
       </div>
@@ -14,6 +14,10 @@ export default {
             title_front: {
                   type: String,
                   required: true,
+            },
+            class: {
+                  type: String,
+                  required: false
             }
       },
 };

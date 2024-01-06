@@ -40,6 +40,7 @@ features:
 <SectionTitle 
   title_back="BLOG"
   title_front="BLOG"
+  class="position-relative d-flex align-items-center justify-content-center"
 />
 
 <LandingBlog />

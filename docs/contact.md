@@ -1,3 +1,10 @@
+---
+title: Contact Page
+sidebar: false
+prev: false
+next: false
+---
+
 # Contact
 
 ## General Inquiries

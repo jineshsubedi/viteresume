@@ -33,7 +33,7 @@
       line-height: 1.2;
 }
 .text-primary {
-      color: #0BCEAF !important;
+      -webkit-text-fill-color: var(--vp-home-hero-name-color)
 }
 
 .text-uppercase {

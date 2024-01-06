@@ -1,5 +1,8 @@
 ---
 title: About Me
+sidebar: false
+prev: false
+next: false
 ---
 
 # About Me

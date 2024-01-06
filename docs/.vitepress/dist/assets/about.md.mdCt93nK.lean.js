@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as o,R as t}from"./chunks/framework.VSMmk2HC.js";const b=JSON.parse('{"title":"About Me","description":"","frontmatter":{"title":"About Me"},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),r={name:"about.md"},i=t("",14),n=[i];function s(l,c,h,d,p,u){return a(),o("div",null,n)}const m=e(r,[["render",s]]);export{b as __pageData,m as default};
