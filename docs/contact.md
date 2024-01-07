@@ -25,8 +25,8 @@ Stay connected with us on social media for updates, news, and community discussi
 
 ## Address Location
 
-Siddipur,
-Lalitpur, Province 3,
+Jawalakhel,
+Lalitpur, Bagmati Province,
 Nepal
 
 ## Google Map

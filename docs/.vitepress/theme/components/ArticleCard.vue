@@ -3,7 +3,6 @@
             class="xl:flex-grow-0 w-full xl:w-[38rem] p-3 border-2 rounded-2xl hover:border-sky-500">
             <article class="flex max-w-xl flex-col items-start justify-between">
                   <div class="flex items-center gap-x-4 text-xs">
-                        <time datetime="{{ formattedDate }}" class="text-gray-500"><b>{{ formattedDate }}</b></time>
                         <Tag :title="tag" />
                   </div>
                   <div class="group relative">
@@ -13,6 +12,10 @@
                                     {{ title }}
                               </a>
                         </h3>
+                        <div class="mt-3 flex items-center gap-x-4 text-xs">
+                              <time datetime="{{ formattedDate }}" class="text-gray-500"><b>{{ formattedDate }}</b></time>
+                        </div>
+                        
                         <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">{{ excerpt }}</p>
                   </div>
             </article>

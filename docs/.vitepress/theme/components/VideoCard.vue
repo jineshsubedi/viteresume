@@ -1,6 +1,6 @@
 <template>
             <a :href="href" target="_blank" class="xl:flex-grow-0 p-3 border-2 rounded-2xl hover:border-sky-500">
-            <article class="flex max-w-xl flex-col items-start justify-between">
+                  <article class="flex max-w-xl flex-col items-start justify-between">
                   <div class="flex items-center gap-x-4 text-xs">
                         <img :src="image" alt="{{ title }}">
                   </div>
