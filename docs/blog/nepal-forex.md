@@ -2,7 +2,7 @@
 title: Nepali Forex Exchange Rates
 author: Jinesh Subedi
 date: 2024-01-07
-description: Here, I have Implemented Nepali Forex Exchange Rate
+description: In today's fast-paced financial landscape, staying updated with real-time currency exchange rates is crucial for making informed trading decisions. In this blog post, we explore how our platform harnesses the power of the Nepal Forex Exchange API to provide users with accurate and up-to-date currency information
 tags: [API, VUE, Forex, API Comsumption]
 ---
 # Nepali Forex Exchange Rates

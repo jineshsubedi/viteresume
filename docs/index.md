@@ -43,6 +43,6 @@ features:
   class="position-relative d-flex align-items-center justify-content-center"
 />
 
-<LandingBlog />
+<LandingBlog perPage="4" />
 
 

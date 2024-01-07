@@ -35,7 +35,7 @@ Throughout my career, I've had the opportunity to work on exciting projects that
    - The site I developed using Mobirise (site builder) is a platform for building business site. The site is designed to provide an engaging and informative experience, with a focus on highlighting my expertise and creativity in various fields. 
    - Mobirise
 
-## [Blog](./blog/)
+## [Blog](./blog)
 
 I enjoy sharing my knowledge and experiences through blog posts.
 
