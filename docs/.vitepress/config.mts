@@ -38,7 +38,7 @@ export default defineConfig({
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2023 - Jinesh Subedi'
-    }
+    },
   },
   sitemap: {
     hostname: 'https://jineshsubedi.github.io/viteresume/'
