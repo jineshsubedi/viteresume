@@ -1,15 +1,15 @@
 ---
 title: Changing PHP Version in Ubuntu - A Step-by-Step Guide
-author: Your Name
+author: Jinesh Subedi
 date: 2024-01-03
 description: Learn how to switch from PHP 7.4 to PHP 8.2 on Ubuntu using the update-alternatives command.
 tags: [PHP, Ubuntu, Server, Tutorial]
 ---
 
+# Changing PHP Version in Ubuntu: A Step-by-Step Guide
 ### <BadgeBlog type="tip" title="PHP, Ubuntu, Server" />
 
-# Changing PHP Version in Ubuntu: A Step-by-Step Guide
-
+## Introduction
 If you're running a web server on Ubuntu and need to upgrade your PHP version, this guide will walk you through the process step by step. We'll demonstrate how to switch from PHP 7.4 to PHP 8.2 using the `update-alternatives` command.
 
 ## Step 1: Install PHP 8.2

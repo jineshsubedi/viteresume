@@ -23,6 +23,13 @@ const { theme } = useData()
 
 const articles = [
       {
+            title: "Nepali Forex Exchange Rates",
+            excerpt: "Laravel is a secure framework with security features. However, if you want to make your laravel app more secure...",
+            href: "./nepal-forex",
+            date: "2024-01-07",
+            tag: "API, VUE, Forex, API Comsumption"
+      },
+      {
             title: "Laravel Google 2FA Authentication Tutorial",
             excerpt: "Laravel is a secure framework with security features. However, if you want to make your laravel app more secure...",
             href: withBase("./blog/laravel-google-2fa-auth"),

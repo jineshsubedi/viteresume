@@ -8,10 +8,10 @@ tags: ["Laravel", "Google", "Two Factor Auth", "Google Auth"]
 
 ![Laravel Google 2FA Authentication Tutorial](https://img.youtube.com/vi/IkfzS96Y3Wk/hqdefault.jpg)
 
+# Laravel Google 2FA Authentication Tutorial
 ### <BadgeBlog type="tip" title="Laravel, Google, Two Factor Auth, Google Auth" />
 
-# Laravel Google 2FA Authentication Tutorial
-
+## Introduction
 Laravel is a secure framework with security features. However, if you want to make your laravel app more secure, you may also use Google 2FA Authenticator in laravel App. In this tutorial, I'll teach you how to install two factor authentication in Laravel using Google Authenticator.
 
 Google2FA is a PHP implementation of the Google Two-Factor Authentication Module, supporting the HMAC-Based One-time Password (HOTP) algorithm specified in RFC 4226 and the Time-based One-time Password (TOTP) algorithm specified in RFC 6238.

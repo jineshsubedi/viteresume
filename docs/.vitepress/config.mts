@@ -22,10 +22,18 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Blogs',
+        collapsed: true,
         items: [
           { text: 'Laravel Google 2FA Authentication Tutorial', link: '/blog/laravel-google-2fa-auth' },
           { text: 'Changing PHP Version in Ubuntu: A Step-by-Step Guide', link: '/blog/change-php-version-in-ubuntu' },
           { text: 'Oracle to PostgreSQL SQL Converter Tool', link: '/blog/oracletopgsql' },
+        ]
+      },
+      {
+        text: 'API',
+        collapsed: true,
+        items: [
+          { text: 'Nepali Forex Exchange Rates', link: '/blog/nepal-forex' },
         ]
       }
     ],
