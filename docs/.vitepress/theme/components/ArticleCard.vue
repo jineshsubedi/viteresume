@@ -1,6 +1,6 @@
 <template>
       <a :href="href"
-            class="xl:flex-grow-0 w-full xl:w-[38rem] p-3 border-2 rounded-2xl hover:border-sky-500">
+            class="bg-white xl:flex-grow-0 w-full xl:w-[38rem] p-3 border-2 rounded-2xl hover:border-sky-500">
             <article class="flex max-w-xl flex-col items-start justify-between">
                   <div class="flex items-center gap-x-4 text-xs">
                         <Tag :title="tag" />

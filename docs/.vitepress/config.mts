@@ -47,6 +47,13 @@ export default defineConfig({
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2023 - Jinesh Subedi'
     },
+    lastUpdated: {
+      text: 'Updated at',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    }
   },
   sitemap: {
     hostname: 'https://jineshsubedi.github.io/viteresume/'
